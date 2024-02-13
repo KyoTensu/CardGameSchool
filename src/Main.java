@@ -3,6 +3,5 @@ public class Main {
         Table tableDePartie = new Table();
 
         tableDePartie.Jouer(4);
-        tableDePartie.listeDesJoueurs.getFirst().getMain();
     }
 }
